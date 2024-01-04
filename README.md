@@ -3,7 +3,34 @@ Ebook website done by React and SpringBoot
 
 The project is a web-based eBook management system developed using Spring Boot for the backend and React for the frontend. It provides a platform for users to browse, manage, and access a diverse range of eBooks. Utilizing JWT for secure authentication, the system allows users to sign in and perform actions based on their roles (e.g., readers, administrators). The backend is built with a RESTful architecture, offering various endpoints for user management, eBook cataloging, and transaction processing. The frontend offers a user-friendly interface for seamless interaction with these services.
 
-#Documentation of the new web service end-point
+  ## Available Scripts
+  
+  In the project directory, you can run:
+  
+  ### `npm start`
+  
+  Runs the app in the development mode.<br />
+  Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  
+  The page will reload if you make edits.<br />
+  You will also see any lint errors in the console.
+
+  ### `npm test`
+  
+  Launches the test runner in the interactive watch mode.<br />
+  See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
+  ### `npm run build`
+  
+  Builds the app for production to the `build` folder.<br />
+  It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+  
+
+
 API Endpoints Documentation
 Authentication Endpoints
 User Registration
