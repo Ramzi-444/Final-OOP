@@ -1,4 +1,6 @@
-# Final-OOP
+# Final-OOP 
+##Done by group of Developers (Saidzamonuddin , Ramzi Abdulalishoev, Raul Shodmonbekov)
+
 Ebook website done by React and SpringBoot 
 
 The project is a web-based eBook management system developed using Spring Boot for the backend and React for the frontend. It provides a platform for users to browse, manage, and access a diverse range of eBooks. Utilizing JWT for secure authentication, the system allows users to sign in and perform actions based on their roles (e.g., readers, administrators). The backend is built with a RESTful architecture, offering various endpoints for user management, eBook cataloging, and transaction processing. The frontend offers a user-friendly interface for seamless interaction with these services.
