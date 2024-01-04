@@ -31,7 +31,7 @@ Your app is ready to be deployed!
   
 
 
-API Endpoints Documentation
+###API Endpoints Documentation
 Authentication Endpoints
 User Registration
 
